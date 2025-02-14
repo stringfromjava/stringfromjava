@@ -13,7 +13,7 @@
     - Lua
     - HaxeFlixel
 - Plays too many games in her freetime lol
-- Likes Friday Night Funkin' a *little* to much
+- Likes Friday Night Funkin' a *little* too much
 - Plays Roblox quite often
     - RIVALS
     - Project: Afternight
