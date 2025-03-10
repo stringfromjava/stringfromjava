@@ -12,7 +12,7 @@
     - C++ (a minor amount of it)
     - Lua (for Roblox)
     - HaxeFlixel
-    - Literally everything lol
+    - ...or whatever is required of me lol
 - Plays too many games in her freetime 🥀
 - Likes Friday Night Funkin' a *little* too much
 - Plays Roblox quite often
