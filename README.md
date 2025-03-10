@@ -10,8 +10,9 @@
     - CSS
     - JavaScript
     - C++ (a minor amount of it)
-    - Lua
+    - Lua (for Roblox)
     - HaxeFlixel
+    - Anything else I need to learn lol
 - Plays too many games in her freetime lol
 - Likes Friday Night Funkin' a *little* too much
 - Plays Roblox quite often
