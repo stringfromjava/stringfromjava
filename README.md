@@ -1,5 +1,5 @@
-# Hai there!
- The name's Kori (≡^∇^≡)/
+# Hai there! (≡^∇^≡)/
+ The name's Kori :3
 
 - Coding since the age of 11
 - Self taught for three years and now in college
