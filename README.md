@@ -1,6 +1,7 @@
 # Hai there! (≡^∇^≡)/
  The name's Kori :3
 
+## About Me!
 - Coding since the age of 11
 - Self taught for three years and now in college
 - Knows 8+ languages
@@ -19,3 +20,10 @@
     - RIVALS
     - Project: Afternight
     - Noobs in Combat
+
+  # Contacts
+  If you are contacting me professionally, then please use my email
+  (linked in my profile's connections).
+
+  If you want to hire me for a gig or need to contact me fast and directly,
+  use my Discord (`@korithekoder`).
