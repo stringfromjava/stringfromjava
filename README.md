@@ -11,6 +11,7 @@
     - CSS
     - JavaScript
     - C++ (a minor amount of it)
+    - C# (mostly for Unity)
     - Lua (for Roblox)
     - HaxeFlixel
     - ...or whatever is required of me lol
