@@ -4,7 +4,7 @@
 ## About Me!
 - Coding since the age of 11
 - Self taught for three years and now in college
-- Knows 8+ languages
+- Knows 9+ languages
     - Java
     - Python
     - HTML
