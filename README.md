@@ -18,7 +18,7 @@
     - ...or whatever is required of me lol
 ### Spare Time
 - I play a lot of games in my freetime
-- Likes Friday Night Funkin' a *little* too much
+- I like Friday Night Funkin' a *little* too much 🥀
 - Plays Roblox quite often
     - RIVALS
     - Project: Afternight
