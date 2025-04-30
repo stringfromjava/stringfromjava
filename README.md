@@ -19,7 +19,7 @@
 ### Spare Time
 - I play a lot of games in my freetime
 - I like Friday Night Funkin' a *little* too much 🥀
-- Plays Roblox quite often
+- Play Roblox quite often
     - RIVALS
     - Project: Afternight
     - Noobs in Combat
