@@ -4,7 +4,7 @@
 ## About Me
 ### Software Experience
 - Coding since the age of 11
-- Self taught for 4 years
+- Self taught for 4 years (6 years of total experience)
 - Knows 9+ languages (💥= Most experience)
     - Java 💥
     - HaxeFlixel 💥
