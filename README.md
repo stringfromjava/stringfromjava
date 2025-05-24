@@ -28,5 +28,5 @@
 If you are contacting me professionally, then please use my email
 (linked in my profile's connections).
 
-If you want to hire me for a gig or need to contact me fast and directly,
+If you want to hire me for something small or need to contact me fast and directly,
 use my Discord (`@korithekoder`).
