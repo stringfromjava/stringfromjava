@@ -5,6 +5,7 @@
 ### Software Experience
 - Coding since the age of 11
 - Self taught for 4 years (6 years of total experience)
+- IDEs are IntelliJ IDEA (for Java specifically) and VS Code (for Haxe and everything else) 
 - Knows 9+ languages (💥= Most experience)
     - Java 💥
     - HaxeFlixel 💥
