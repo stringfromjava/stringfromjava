@@ -1,26 +1,29 @@
-# Hey there :3
- The name's Kori!
+# Hey there!
+ The name's Kori :3
 
 ## About Me
 ### Software Experience
 - Coding since the age of 11
 - Self taught for 4 years (6 years of total experience)
 - IDEs are IntelliJ IDEA (for Java specifically) and VS Code (for Haxe and everything else) 
-- Knows 9+ languages (💥= Most experience)
-    - Java 💥
-    - HaxeFlixel 💥
-    - Python 💥
-    - HTML
-    - CSS
-    - JavaScript
-    - C++ (a minor amount of it)
-    - C# (mostly for Unity)
-    - Lua (for Roblox)
-    - ...or whatever is required of me lol
-### Spare Time
-- I play a lot of games in my freetime
+- I know and/or am familiar with 9+ languages
+    - Java 🌟🌟🌟🌟🌟 (most experienced for general programming)
+    - HaxeFlixel 🌟🌟🌟🌟🌟 (most experienced for game development)
+    - Python ⭐⭐⭐⭐
+    - HTML ⭐⭐⭐
+    - CSS ⭐⭐
+    - JavaScript ⭐⭐
+    - Lua ⭐⭐ (mostly for Roblox)
+    - C++ ⭐
+    - C# ⭐ (mostly for Unity)
+    - Anything else that's required of me lol
+### Spare Time & Hobbies
+- I play and create a lot of games in my freetime!
+    - Currently working on Starcore (a personal game of mine)
+      and small Roblox games
 - I like Friday Night Funkin' a *little* too much 🥀
-- Play Roblox quite often
+    - Very experienced with FNF's code ([the original game](https://github.com/FunkinCrew/Funkin) and [Psych engine](https://github.com/ShadowMario/FNF-PsychEngine) are my main ones)
+- I play Roblox quite often
     - RIVALS
     - Project: Afternight
     - Noobs in Combat
