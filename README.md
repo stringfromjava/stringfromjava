@@ -22,7 +22,7 @@
     - Currently working on Starcore (a personal game of mine)
       and small Roblox games
 - I like Friday Night Funkin' a *little* too much 🥀
-    - Very experienced with FNF's code ([the original game](https://github.com/FunkinCrew/Funkin) and [Psych engine](https://github.com/ShadowMario/FNF-PsychEngine) are my main ones)
+    - Very experienced with FNF's code ([the original game](https://github.com/FunkinCrew/Funkin) and [Psych](https://github.com/ShadowMario/FNF-PsychEngine) are my main engines)
 - I play Roblox quite often
     - RIVALS
     - Project: Afternight
