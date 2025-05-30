@@ -7,7 +7,7 @@
 - Self taught for 4 years (6 years of total experience)
 - IDEs are IntelliJ IDEA (for Java specifically) and VS Code (for Haxe and everything else) 
 - I know and/or am familiar with 9+ languages
-    - Java 🌟🌟🌟🌟🌟 (most experienced for general programming)
+    - Java 🌟🌟🌟🌟🌟 (most experienced for general programming, especially Discord bots)
     - HaxeFlixel 🌟🌟🌟🌟🌟 (most experienced for game development)
     - Python ⭐⭐⭐⭐
     - HTML ⭐⭐⭐
