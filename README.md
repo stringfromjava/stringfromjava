@@ -14,7 +14,7 @@
     - CSS ⭐⭐
     - JavaScript ⭐⭐
     - Lua ⭐⭐ (mostly for Roblox)
-    - PHP
+    - PHP ⭐⭐
     - C++ ⭐
     - C# ⭐ (mostly for Unity)
     - Anything else that's required of me lol
