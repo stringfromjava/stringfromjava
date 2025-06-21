@@ -1,6 +1,9 @@
 # Hey there!
  The name's Kori :3
 
+# Like What I Code?
+Support me on my [Ko-Fi](https://ko-fi.com/korithekoder)!
+
 ## About Me
 ### Software Experience
 - Coding since the age of 11
