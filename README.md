@@ -1,8 +1,5 @@
-# Hey there!
- The name's Kori :3
-
-# Like What I Code?
-Support me on my [Ko-Fi](https://ko-fi.com/korithekoder)!
+# Hello
+My name is String, welcome to my GitHub profile!
 
 ## About Me
 ### Software Experience
@@ -25,16 +22,13 @@ Support me on my [Ko-Fi](https://ko-fi.com/korithekoder)!
 - I play and create a lot of games in my freetime!
     - Currently working on Starcore (a personal game of mine)
       and small Roblox games
-- I like Friday Night Funkin' a *little* too much 🥀
+- I like Friday Night Funkin' and rhythm games general
     - Very experienced with FNF's code ([the original game](https://github.com/FunkinCrew/Funkin) and [Psych](https://github.com/ShadowMario/FNF-PsychEngine) are my main engines)
 - I play Roblox quite often
-    - RIVALS
-    - Project: Afternight
-    - Noobs in Combat
 
 # Contacts
 If you are contacting me professionally, then please use my email
 (linked in my profile's connections).
 
 If you want to hire me for something small or need to contact me fast and directly,
-use my Discord (`@korithekoder`).
+use my Discord (`@publicstaticstring`).
