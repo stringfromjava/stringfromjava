@@ -9,11 +9,11 @@ My name is String, welcome to my GitHub profile!
 - I know and/or am familiar with 10+ languages
     - Java 🌟🌟🌟🌟🌟 (most experienced for general programming, especially Discord bots)
     - HaxeFlixel 🌟🌟🌟🌟🌟 (most experienced for game development)
+    - Lua 🌟🌟🌟🌟🌟 (mostly for Roblox)
     - Python ⭐⭐⭐⭐
     - HTML ⭐⭐⭐
     - CSS ⭐⭐
     - JavaScript ⭐⭐
-    - Lua ⭐⭐ (mostly for Roblox)
     - PHP ⭐⭐
     - C++ ⭐
     - C# ⭐ (mostly for Unity)
