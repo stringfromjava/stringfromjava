@@ -1,5 +1,5 @@
 # Hello
-My name is String, welcome to my GitHub profile!
+My name is String, welcome to my GitHub profile.
 
 ## About Me
 ### Software Experience
