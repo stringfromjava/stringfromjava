@@ -10,13 +10,13 @@ My name is String, welcome to my GitHub profile.
     - Java 🌟🌟🌟🌟🌟 (most experienced for general programming, especially Discord bots)
     - HaxeFlixel 🌟🌟🌟🌟🌟 (most experienced for game development)
     - Roblox Luau 🌟🌟🌟🌟🌟
+    - C# ⭐⭐⭐⭐ (Unity)
     - Python ⭐⭐⭐⭐
     - HTML ⭐⭐⭐
     - CSS ⭐⭐
     - JavaScript ⭐⭐
     - PHP ⭐⭐
     - C++ ⭐
-    - C# ⭐ (mostly for Unity)
     - Anything else that's required of me lol
 ### Spare Time & Hobbies
 - I play and create a lot of games in my freetime!
