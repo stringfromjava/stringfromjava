@@ -4,7 +4,7 @@ My name is String, welcome to my GitHub profile.
 ## About Me
 ### Software Experience
 - Coding since the age of 11
-- Self taught for 4 years (6 years of total experience)
+- Self taught for 5 years (6 years of total experience)
 - IDEs are IntelliJ IDEA (for Java specifically) and VS Code (for Haxe and everything else) 
 - I know and/or am familiar with 10+ languages
     - Java 🌟🌟🌟🌟🌟 (most experienced for general programming, especially Discord bots)
