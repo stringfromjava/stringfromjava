@@ -8,7 +8,7 @@ My name is String, welcome to my GitHub profile.
 - IDEs are IntelliJ IDEA (for Java specifically) and VS Code (for Haxe and everything else) 
 - I know and/or am familiar with 10+ languages
     - Java 🌟🌟🌟🌟🌟 (most experienced for general programming, especially Discord bots)
-    - HaxeFlixel 🌟🌟🌟🌟🌟 (most experienced for game development)
+    - HaxeFlixel 🌟🌟🌟🌟🌟
     - Roblox Luau 🌟🌟🌟🌟🌟
     - C# ⭐⭐⭐⭐ (Unity)
     - Python ⭐⭐⭐⭐
@@ -22,7 +22,7 @@ My name is String, welcome to my GitHub profile.
 - I play and create a lot of games in my freetime!
     - Currently working on Starcore (a personal game of mine)
       and small Roblox games
-- I like Friday Night Funkin' and rhythm games general
+- I like Friday Night Funkin' and rhythm games in general
     - Very experienced with FNF's code ([the original game](https://github.com/FunkinCrew/Funkin) and [Psych](https://github.com/ShadowMario/FNF-PsychEngine) are my main engines)
 - I play Roblox quite often
 
