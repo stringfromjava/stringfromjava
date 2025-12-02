@@ -5,7 +5,8 @@ My name is String, welcome to my GitHub profile.
 ### Software Experience
 - Coding since the age of 11
 - Self taught for 5 years (6 years of total experience)
-- IDEs are IntelliJ IDEA (for Java specifically) and VS Code (for Haxe and everything else) 
+- IDEs are IntelliJ IDEA (for Java specifically) and VS Code (for Haxe and everything else)
+- I can learn a new language very quickly (I just need the documentation)
 - I know and/or am familiar with 10+ languages
     - Java 🌟🌟🌟🌟🌟 (most experienced for general programming, especially Discord bots)
     - HaxeFlixel 🌟🌟🌟🌟🌟
@@ -20,10 +21,12 @@ My name is String, welcome to my GitHub profile.
     - Anything else that's required of me lol
 ### Spare Time & Hobbies
 - I play and create a lot of games in my freetime!
-    - Currently working on Starcore (a personal game of mine)
-      and small Roblox games
+    - Currently working:
+        - Starcore (a personal game of mine, using HaxeFlixel)
+        - Polyverse Engine (an FNF engine with a block based scripting system)
+        - A rewritten version of FNF using Java
 - I like Friday Night Funkin' and rhythm games in general
-    - Very experienced with FNF's code ([the original game](https://github.com/FunkinCrew/Funkin) and [Psych](https://github.com/ShadowMario/FNF-PsychEngine) are my main engines)
+    - Very experienced with FNF's code (I can learn any engine you throw at me in a very short amount of time)
 - I play Roblox quite often
 
 # Contacts
