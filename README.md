@@ -21,7 +21,7 @@ My name is String, welcome to my GitHub profile.
     - Anything else that's required of me lol
 ### Spare Time & Hobbies
 - I play and create a lot of games in my freetime!
-    - Currently working:
+    - Currently working on:
         - Starcore (a personal game of mine, using HaxeFlixel)
         - Polyverse Engine (an FNF engine with a block based scripting system)
         - A rewritten version of FNF using Java
